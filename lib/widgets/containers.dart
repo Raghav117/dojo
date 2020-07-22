@@ -1,7 +1,7 @@
 import 'package:flutter/material.dart';
 
 Widget batches = Container(
-    height: 400.0,
+    // height: 400.0,
     color: Colors.white,
     child: Column(
       children: <Widget>[
@@ -170,7 +170,6 @@ Widget batches = Container(
         ),
       ],
     ));
-
 
 Widget membership = Container(
   height: 300.0,

@@ -1,4 +1,4 @@
-package com.vaibhav.dojo;
+package in.dojosports.dojo.dojo_partner;
 
 import io.flutter.embedding.android.FlutterActivity;
 
